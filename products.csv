@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Laptop Pro 14,Technology,1200
+2,Laptop Air 13,Technology,900
+3,Smartphone X,Technology,700
+4,Smartphone Y,Technology,500
+5,Tablet Pro,Technology,650
+6,Wireless Earbuds,Accessories,80
+7,Smartwatch S,Accessories,150
+8,Gaming Mouse,Accessories,40
+9,Gaming Keyboard,Accessories,60
+10,Monitor 24in,Technology,180
+11,Monitor 27in,Technology,250
+12,Office Chair,Office,130
+13,Ergonomic Chair,Office,220
+14,Desk Medium,Office,150
+15,Desk Large,Office,250
+16,Notebook Pack,Stationery,10
+17,Pen Blue,Stationery,2
+18,Pen Black,Stationery,2
+19,Marker Set,Stationery,5
+20,Printer Basic,Office,140
+21,Printer Laser,Office,300
+22,Scanner A4,Office,110
+23,USB Cable,Accessories,5
+24,HDMI Cable,Accessories,10
+25,External Hard Disk,Technology,90
+26,Webcam HD,Technology,50
+27,Router Basic,Technology,40
+28,Router Pro,Technology,120
+29,Headphones Wired,Accessories,20
+30,Headphones Wireless,Accessories,60
+31,Stapler,Stationery,3
+32,Calculator,Office,12
+33,Paper A4 Pack,Stationery,6
+34,Glue Stick,Stationery,1
+35,Mouse Pad,Accessories,5
+36,Coffee Mug,Home,8
+37,Water Bottle,Home,12
+38,Desk Lamp,Home,25
+39,Wall Clock,Home,18
+40,Photo Frame,Home,15
+41,Bluetooth Speaker,Technology,45
+42,Power Bank,Technology,25
+43,Portable SSD,Technology,110
+44,Surge Protector,Home,20
+45,Chair Mat,Office,30
+46,Pen Holder,Office,5
+47,Tape Dispenser,Stationery,4
+48,Sticky Notes,Stationery,3
+49,Magazine Holder,Office,18
+50,Table Organizer,Office,22
